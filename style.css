@@ -1,0 +1,50 @@
+body{
+  background-image: url('beach.jpg');
+  font-family:'Dosis', sans-serif;
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+  color: white;
+}
+
+#trash5{
+  float: right;
+}
+
+#trash7{
+  float: right;
+}
+
+#trash8{
+  float: left;
+}
+
+#trivia, #trivia2, #trivia3, #trivia4, #trivia5, #trivia6,#trivia7,#trivia8,#trivia9,#trivia10{
+  display: none;
+  text-align: center;
+  background-color: white;
+  color: black;
+  opacity: 0.7;
+}
+
+#correct, #correct2, #correct3, #correct4, #correct5, #correct6, #correct7,#correct8,#correct9,#correct10, #incorrect,
+#incorrect2,#incorrect3,#incorrect4, #incorrect5, #incorrect6, #incorrect7,#incorrect8,#incorrect9,#incorrect10, #pickUp,#pickUp2,#pickUp3,
+#pickUp4, #pickup5, #pickup6, #pickup7, #pickup8 , #pickup9, #pickup10{
+  display: none;
+  text-align: center;
+}
+
+p{
+  font-size: 20px;
+  color: black;
+  text-align: center;
+}
+
+
+button{
+  background-color: #e8ffec;
+  border-radius: 15px;
+}
