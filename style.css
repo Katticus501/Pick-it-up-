@@ -21,6 +21,13 @@ iframe {
   /*font-family: 'Kumar One Outline', cursive;*/
 }
 
+p{
+  font-size: 23px;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+}
+
 h1{
   font-size: 80px;
   font-family: 'Unica One', cursive;
