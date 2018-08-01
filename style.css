@@ -1,13 +1,14 @@
 body{
-  /*background-image: url('http://www.futureearth.org/sites/default/files/styles/full_width_desktop/public/p6050044_0.jpg?itok=TbqgXAAK');*/
+  /*background-image: url('http://www.futureearth.org/sites/default/files/styles/full_width_desktop/public/p6036044_0.jpg?itok=TbqgXAAK');*/
   background: linear-gradient(to bottom, #ecfaff 10%, #78bfd6 96%);
   font-family:'Dosis', sans-serif;
   background-repeat: no-repeat;
   background-size: cover;
+  text-align: center;
 }
 
 iframe {
-  height: 600px;
+  height: 740px;
   width: 1200px;
   resize: both;
   overflow: auto;
@@ -21,23 +22,18 @@ iframe {
   /*font-family: 'Kumar One Outline', cursive;*/
 }
 
-p{
-  font-size: 23px;
-  margin-left: 20px;
-  margin-right: 20px;
-  text-align: center;
-}
-
 h1{
   font-size: 80px;
   font-family: 'Unica One', cursive;
 }
 
 
+
 h2{
   color: #1E3035;
   font-size: 50px;
   font-family: 'Sacramento', cursive;
+  text-align: center;
 }
 
 /* Add a black background color to the top navigation */
@@ -73,3 +69,93 @@ h2{
     font-size: 12px;
     font-family: 'Helvetica', cursive;
 }
+
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 18vw;
+    height: 740px;
+    background-color: white;
+    padding: 20px;
+    display: inline-block;
+    font-size: 15px;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container {
+    padding: 2px 16px;
+
+}
+
+
+.card2 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: white;
+    padding: 20px;
+    width: 18vw;
+    height: 740px;
+    display: inline-block;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container2 {
+    padding: 2px 16px;
+}
+
+
+.card3 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 18vw;
+    height: 740px;
+    background-color: white;
+    padding: 20px;
+    display: inline-block;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container3 {
+    padding: 2px 16px;
+}
+
+
+.card4 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 18vw;
+    height: 740px;
+    background-color: white;
+    padding: 20px;
+    display: inline-block;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container4 {
+    padding: 2px 16px;
+}
+
